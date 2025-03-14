@@ -1,0 +1,55 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+  }
+div {
+  background-color: gray;
+  margin: 100px 200px;
+}
+div #recipes {
+    color:#0000ff;
+    background-color: yellow;
+}
+
+.recipe-list {
+  margin: 10px;
+}
+
+.recps {
+  padding: 10px;
+}
+
+h2 {
+  font-weight: bold;
+  background-color: rgb(24, 82, 107, 0.4);
+}
+
+.li1 {
+  color: green;
+}
+
+ul, .li2 {
+  color: blueviolet;
+  background-color: rgb(205, 121, 26);
+}
+ul, .li3 {
+  color: rgb(226, 43, 150);
+  background-color: rgb(21, 150, 210);
+}
+ul, .li4 {
+  color: rgb(121, 55, 183);
+  background-color: rgb(40, 168, 51);
+}
+ul, .li5 {
+  color: blueviolet;
+  background-color: yellow;
+}
+
+li {
+  background-color: hsla(137, 74%, 35%, 0.5);
+}
+
+ol {
+  font-size: 30px;
+  background-color: green;
+}
